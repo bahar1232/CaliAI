@@ -1,0 +1,2 @@
+# CaliAI
+AI calisthenics coach
