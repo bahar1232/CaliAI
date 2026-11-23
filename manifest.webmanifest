@@ -1,0 +1,20 @@
+{
+  "name": "Calisthenics AI Coach",
+  "short_name": "Calisthenics AI",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "מאמן קליסטניקס לניתוח תנועה וטכניקה",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
